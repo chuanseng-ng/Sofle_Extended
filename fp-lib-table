@@ -1,4 +1,2 @@
 (fp_lib_table
-  (lib (name "SofleKeyboard-footprint")(type "KiCad")(uri "C:/Users/waele/Documents/GitHub/DIY-PCB-Design/SofleKeyboard/footprints/SofleKeyboard-footprint.pretty")(options "")(descr ""))
-  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/waele/Documents/GitHub/DIY-PCB-Design/Keebio-Parts.pretty")(options "")(descr ""))
 )
